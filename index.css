@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+}
+
+input {
+  border-radius: 50px;
+  width: 200px;
+  background: rgb(255, 187, 0);
+}
+
+button {
+  width: 50px;
+  border-radius: 10px;
+  background: gray;
+  color: white;
+}
